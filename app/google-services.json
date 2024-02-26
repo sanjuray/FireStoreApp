@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655537534726",
+    "project_id": "firestoreapp-b540d",
+    "storage_bucket": "firestoreapp-b540d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655537534726:android:99334a8f72e3bfa4265087",
+        "android_client_info": {
+          "package_name": "com.example.firestoreapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbA-8FmYVtZuIIyJnZS6A-lwScUu2513M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
